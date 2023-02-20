@@ -60,17 +60,6 @@ void PrintArray(int[,] array)
     }
 }
 
-// int i = 0;
-// int j = 0;
-// int[,] arr3=new int[arr2.GetLength(0),arr2.GetLength(1)];
-
-
-// System.Console.Write((arr3[i, j] = arr1[i, j] * arr2[i, j] + arr1[i, j + 1] * arr2[i + 1, j])+"\t");
-// System.Console.Write(arr3[i, j+1] = arr1[i, j] * arr2[i, j+1] + arr1[i, j + 1] * arr2[i + 1, j+1]);
-// System.Console.WriteLine();
-// System.Console.Write((arr3[i+1, j] = arr1[i+1, j] * arr2[i, j] + arr1[i+1, j + 1] * arr2[i + 1, j])+"\t");
-// System.Console.Write(arr3[i+1, j+1] = arr1[i+1, j] * arr2[i, j+1] + arr1[i+1, j + 1] * arr2[i + 1, j+1]);
-
 int[,] arr1 = FillArrayWithRandomNumbers(2, 2, 1, 5);
 System.Console.WriteLine();
 int[,] arr2 = FillArrayWithRandomNumbers(2, 2, 1, 5);
