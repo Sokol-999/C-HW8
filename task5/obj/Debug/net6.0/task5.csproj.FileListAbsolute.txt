@@ -1,0 +1,15 @@
+E:\ГИТ\C#HW8\task5\bin\Debug\net6.0\task5.exe
+E:\ГИТ\C#HW8\task5\bin\Debug\net6.0\task5.deps.json
+E:\ГИТ\C#HW8\task5\bin\Debug\net6.0\task5.runtimeconfig.json
+E:\ГИТ\C#HW8\task5\bin\Debug\net6.0\task5.dll
+E:\ГИТ\C#HW8\task5\bin\Debug\net6.0\task5.pdb
+E:\ГИТ\C#HW8\task5\obj\Debug\net6.0\task5.csproj.AssemblyReference.cache
+E:\ГИТ\C#HW8\task5\obj\Debug\net6.0\task5.GeneratedMSBuildEditorConfig.editorconfig
+E:\ГИТ\C#HW8\task5\obj\Debug\net6.0\task5.AssemblyInfoInputs.cache
+E:\ГИТ\C#HW8\task5\obj\Debug\net6.0\task5.AssemblyInfo.cs
+E:\ГИТ\C#HW8\task5\obj\Debug\net6.0\task5.csproj.CoreCompileInputs.cache
+E:\ГИТ\C#HW8\task5\obj\Debug\net6.0\task5.dll
+E:\ГИТ\C#HW8\task5\obj\Debug\net6.0\refint\task5.dll
+E:\ГИТ\C#HW8\task5\obj\Debug\net6.0\task5.pdb
+E:\ГИТ\C#HW8\task5\obj\Debug\net6.0\task5.genruntimeconfig.cache
+E:\ГИТ\C#HW8\task5\obj\Debug\net6.0\ref\task5.dll
