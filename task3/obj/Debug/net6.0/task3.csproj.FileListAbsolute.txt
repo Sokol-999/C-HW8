@@ -1,0 +1,15 @@
+E:\ГИТ\C#HW8\task3\obj\Debug\net6.0\task3.csproj.AssemblyReference.cache
+E:\ГИТ\C#HW8\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\ГИТ\C#HW8\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+E:\ГИТ\C#HW8\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+E:\ГИТ\C#HW8\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
+E:\ГИТ\C#HW8\task3\bin\Debug\net6.0\task3.exe
+E:\ГИТ\C#HW8\task3\bin\Debug\net6.0\task3.deps.json
+E:\ГИТ\C#HW8\task3\bin\Debug\net6.0\task3.runtimeconfig.json
+E:\ГИТ\C#HW8\task3\bin\Debug\net6.0\task3.dll
+E:\ГИТ\C#HW8\task3\bin\Debug\net6.0\task3.pdb
+E:\ГИТ\C#HW8\task3\obj\Debug\net6.0\task3.dll
+E:\ГИТ\C#HW8\task3\obj\Debug\net6.0\refint\task3.dll
+E:\ГИТ\C#HW8\task3\obj\Debug\net6.0\task3.pdb
+E:\ГИТ\C#HW8\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
+E:\ГИТ\C#HW8\task3\obj\Debug\net6.0\ref\task3.dll
